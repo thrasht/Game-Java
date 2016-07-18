@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=n\ start
+comment0.target=Contador(int,\ int)
+comment1.params=amount
+comment1.target=void\ cambiaCont(int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

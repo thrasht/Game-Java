@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=Jug\ direccion
+comment0.target=bala(Jugador,\ int)
+comment0.text=\n\ Constructor\ for\ a\ Shot.\ You\ must\ specify\ the\ ship\ the\ shot\ comes\ from.\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ bala\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=2
